@@ -1,5 +1,5 @@
 @import url(../vendor/normalize.css);
-@import url(../fonts/inter.css);
+@import url(../fonts/fonts.css);
 @import url(../blocks/root/root.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/cover/cover.css);
@@ -35,3 +35,4 @@
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__website/place__webstie.css);
 @import url(../blocks/places/places.css);
+@import url(../blocks/footer/__link-li/footer__link-li.css);

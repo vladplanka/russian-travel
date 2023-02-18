@@ -9,7 +9,8 @@
     margin: 0 0 26px 0;
     box-sizing: border-box;
 }
-.place__paragraph:nth-of-type(2n) {
+
+.place__paragraph:last-child {
     margin-bottom: 0;
 }
 
@@ -18,15 +19,11 @@
     max-width: 352px;
     font-size: 16px;
     }
-    .place__paragraph:last-of-type {
-    margin-bottom: 0;
-    }
 }
 
 @media screen and (max-width: 767px) {
     .place__paragraph {
     max-width: 288px;
-    font-size: 16px;
     margin: 0 auto 26px auto;
     align-self: center;
     }

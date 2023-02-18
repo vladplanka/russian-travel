@@ -7,3 +7,9 @@
     margin: 0 auto;
     box-sizing: border-box;
 }
+
+@media screen and (min-width: 767px) {
+    .page {
+        padding-top: 16px;
+    }
+}
