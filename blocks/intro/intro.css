@@ -4,3 +4,23 @@
     margin: 0 442px 0 148px;
     max-width: 690px;
 }
+
+@media screen and (max-width: 1279px) {
+    .intro {
+        margin: 0 286px 0 48px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .intro {
+        max-width: 720px;
+        margin: 0 24px 0;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .intro {
+        max-width: 288px;
+        margin: 0 16px 0;
+    }
+}
