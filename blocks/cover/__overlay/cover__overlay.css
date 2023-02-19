@@ -13,6 +13,7 @@
   z-index: 2;
   min-height: 740px;
   max-width: 1184px;
+  margin: 0 auto;
 }
 
 .cover__overlay::before {
