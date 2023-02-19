@@ -1,3 +1,7 @@
+.footer__link-li {
+    margin: 0 18px 0 0;
+}
+
 .footer__link-li:last-child {
     margin-right: 0;
 }
